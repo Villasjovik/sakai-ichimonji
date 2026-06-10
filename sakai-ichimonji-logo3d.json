@@ -1,0 +1,12 @@
+{
+  "svgPath": "/Users/lucasm4max/Desktop/Claude/operational/projekt/villa-sjovik/pitchar/sakai-ichimonji/sakai-ichimonji.svg",
+  "svgFilename": "sakai-ichimonji.svg",
+  "brandColor": "#231815",
+  "brandColorHex": "0x231815",
+  "heroMaterialColor": "#e8e8e8",
+  "dominantDetected": "#231815",
+  "isLightLogo": false,
+  "material": "chrome",
+  "note": "Sakai Ichimonji Mitsuhide full brand mark — the Doguyasuji emblem, the Latin 'JAPANESE KITCHEN KNIFE / SAKAI ICHIMONJI MITSUHIDE' lockup and the Japanese calligraphy 堺一文字光秀, all single-colour brand ink #231815. Source is a multi-path single-colour logotype SVG (viewBox 0 0 400 94) rasterized on white (density 600) and potrace-traced to one flat path (viewBox 0 0 2400 564) so Three.js SVGLoader extrudes cleanly. On the dark-green hero a near-black logo would read dark-on-dark, so the 3D hero logo is rendered in CHROME (data-material=chrome, color 0xe8e8e8, metalness 1.0) — silver suits the polished-blade aesthetic and reads well on the dark hero (Vigneron/Bluevua chrome-logo precedent). Villa Sjövik logo always gold. Canonical dark-green palette unchanged.",
+  "generatedAt": "2026-06-10T00:00:00.000Z"
+}
